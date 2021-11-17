@@ -1,0 +1,1322 @@
+{
+    "0": {
+        "1921": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "1": {
+        "4 miles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "5 kilometers": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "6 feet above mean lower low water at cape san mart": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "Abandoned": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "5": {
+        "Albert B Fall": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "Alder": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Alderpeak": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Anthony": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Bald": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Top": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Basket": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Bird": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "Brush": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "Bryson": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "Buckeye Spring": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Buclimo Mine": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Burro Mtn": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "C A Stonesifer": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "C A SCWH Nessler": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "18": {
+        "California": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Calizona": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mine": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Canyon": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Cape": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "San": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Martin": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Cape": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "San": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Martin": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Quadrangle": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "23": {
+        "cape": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "san": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Martin": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "24": {
+        "Chalk": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Peak": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "25": {
+        "Flood": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "26": {
+        "Chris": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Coast": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Contour": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "interval": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "on": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "land": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "50 feet": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "29": {
+        "Contour": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "interval": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "off": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "shore": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "50 feet": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Control": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "by": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "US COast": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Geodetic": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Survey": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Cow": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Camp": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Creek": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Datum is mean lower low water": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Datum": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "is": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "mean": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "sea level": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Department": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Of": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "The": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Interior": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "36": {
+        "Devils": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Director": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "Dutra": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "Dutra": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Place": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Edition": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Estrada": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Evans": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "bros": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Foremans": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Headquarters": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "Fork": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Geo R Davis,": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Geographer": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "in": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Charge": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "46": {
+        "George Otis Smith": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Gonzales": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Gorda": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "49": {
+        "Gorda": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MIne": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "Gorda": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "School": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "House": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Jones": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mtn": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Junipero": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Serra": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Camp": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "King": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "City": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "56": {
+        "King": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "57": {
+        "Kirk": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "58": {
+        "krenkels": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ranch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "LF Biggs": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "RC Seitz": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "60": {
+        "Lion": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Peak": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Little": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Burros": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Los": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Burros": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Lower": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Coast": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Lower": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Coast": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Trail": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Lucia": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Melville": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mine": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "Mill": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "68": {
+        "Milpitas": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "69": {
+        "Mine": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "70": {
+        "Montery": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Co": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Mt Mars": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Nacimiento": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Nacimiento": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "School": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "74": {
+        "National": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Forest": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Nigger": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fark": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "North": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "77": {
+        "North": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "78": {
+        "Fork": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cruikshank": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Ranch": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Jones": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Raneli": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "81": {
+        "Pacific": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ocean": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Piedra": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Blanca": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "Piedras": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Blancas": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "84": {
+        "Plaskett": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Plaskett": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "86": {
+        "Plaskett": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "87": {
+        "Polar": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "School": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "88": {
+        "Polyconic projection North American Datum": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "89": {
+        "Prewitt": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "90": {
+        "Rb Marshall": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Chief": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "91": {
+        "Geographer": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "92": {
+        "Ragged Pt": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "93": {
+        "RangerSta": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "94": {
+        "Ray": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Evans": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Ranch": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "95": {
+        "Redwood": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gulch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "96": {
+        "River": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "97": {
+        "Round": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Salmon": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "99": {
+        "Salmon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cone": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "100": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Carpoforo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Luis": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Obispo": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Co": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "102": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Martin": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Top": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "103": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Miguel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Miguelito": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Sans": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "106": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Barbara": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "107": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lucia": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Range": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "108": {
+        "Sawmill": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "109": {
+        "Scale": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "110": {
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "111": {
+        "School": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "112": {
+        "Secretary": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "113": {
+        "Shore line is the margin of water at mean high tid": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "114": {
+        "Silver": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Peak": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "115": {
+        "Sliek": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "116": {
+        "Soda": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "117": {
+        "South": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "118": {
+        "South": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fork": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "119": {
+        "Squirrel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spr": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "120": {
+        "Stony": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "121": {
+        "Stony": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Valley": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "122": {
+        "Surveyd": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "in": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "1917": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "123": {
+        "Syeamore": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "124": {
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "125": {
+        "Three": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Peaks": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "126": {
+        "Topography": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "127": {
+        "Topography": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "By": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "US COast": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Geodetic": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Survey": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "128": {
+        "Trail": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "129": {
+        "U.S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Geological": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Survey": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "130": {
+        "Underwater": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Contours": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "by": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "US COast": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Geodetic": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "survey": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "131": {
+        "Upper": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "132": {
+        "Upper": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Coast": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Trail": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "133": {
+        "Villa": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "134": {
+        "W R Hearst": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "135": {
+        "Wagner": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "136": {
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "137": {
+        "White": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "138": {
+        "Wild": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cattle": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cr": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "139": {
+        "Willow": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "140": {
+        "Windy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "141": {
+        "Woods": {
+            "text_label": 1,
+            "shape": 5
+        }
+    }
+}

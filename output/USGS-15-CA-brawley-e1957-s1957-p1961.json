@@ -1,0 +1,1642 @@
+{
+    "0": {
+        "10TH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ST": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "1": {
+        "4TH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ST": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "2": {
+        "6TH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ST": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "3": {
+        "8TH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ST": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "ADAMS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "AIRSTRIP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "ALDER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Anza": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "BEST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "9": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "104": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "107": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "110": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "111": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "115": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "14": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "117": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "118": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "123": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "132": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "78": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "93": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "BM-": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "-40": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "BRAWLEY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "BRAWLEY QUANDRANGLE CALIFORNIA-IMPERIAL CO. 15 MINUTE SERIES (TOPOGRAPHIC)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "BRYANT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "Ben": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hulse": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "25": {
+        "Bullhead": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Slough": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "CANAL": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "CENTRAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "CENTRAL": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "29": {
+        "MAIN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CENTRAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Central": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Cotton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "DAHLIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "33": {
+        "DAHLIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LATERAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "34": {
+        "DANDELION": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "DATE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "DATE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "DIXIE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "38": {
+        "DIXIE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ONE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "39": {
+        "DOGWOOD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "DOLSON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Douglas": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Jr": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HS": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Drive-in": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Theater": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "EBONY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "EL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CENTRO": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "45": {
+        "EL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CENTRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NAVAL": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "AUXILIARY": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "AIR": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "STATION": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "46": {
+        "ELDER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "47": {
+        "ELDER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LATERAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "ELM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "EUCALYPTUS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "EUCALYPTUS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LATERAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "EVERGREEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Edgar": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Eucalyptus": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Evergreen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cem": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "FAIRGROUNDS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "56": {
+        "FERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "57": {
+        "FIG": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "FIG": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "FILLAREE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "FILLAREE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "FLAX": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "62": {
+        "FORGET-ME-NOT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "FOXGLOVE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Firing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Range": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Flume": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Gaging": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sta": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "Gravel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pit": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "68": {
+        "Gravel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pits": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "HOLTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "INTER-URBAN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "70": {
+        "HOTVILLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Hidalgo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Hospital": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "73": {
+        "IMPERIAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "74": {
+        "Imperial": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Imperial": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cem": {
+            "text_label": null,
+            "shape": 5
+        }
+    },
+    "76": {
+        "Imperial": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "77": {
+        "Valley": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "College": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "78": {
+        "JEPP": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TRAIL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "79": {
+        "LATERAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "80": {
+        "LAVENDER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "81": {
+        "LILAC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "LILAC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "LOTUS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "84": {
+        "Labor": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Camp": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Labor": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Center": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "86": {
+        "Landing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Field": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "87": {
+        "Lantana": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "88": {
+        "Lucky": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "89": {
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "90": {
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "91": {
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SPRUCE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "92": {
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ST": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "93": {
+        "MC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CALL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "94": {
+        "MC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CALL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "ONE": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "95": {
+        "MESQUITE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "96": {
+        "MUNICIPAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AIRPORT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "97": {
+        "Memory": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gardens": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cem": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Mound": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "99": {
+        "NAVAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RES": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "100": {
+        "NAVAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RESERVATION": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "NEW": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RIVER": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "102": {
+        "NEW": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SPRUCE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "103": {
+        "NEWSIDE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "NEWSIDE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Oakley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "106": {
+        "PALM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "107": {
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "108": {
+        "PEARSON": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "109": {
+        "PO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "110": {
+        "Pioneer": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Memorial": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "111": {
+        "Pistol": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Range": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "112": {
+        "Purification": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Plant": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "113": {
+        "RICE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "114": {
+        "RICE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ONE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "115": {
+        "RIO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "VISTA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "116": {
+        "AVE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "117": {
+        "ROCKWOOD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "118": {
+        "ROSE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "119": {
+        "ROSE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "120": {
+        "ROSS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "121": {
+        "RUBBER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "122": {
+        "Radio": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Facility": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "123": {
+        "Reid": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "124": {
+        "Riverview": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cem": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "125": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DIEGO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "126": {
+        "ARIZONA": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "EASTERN": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "127": {
+        "SANDAL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "128": {
+        "SOUTHERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "129": {
+        "STANLEY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "130": {
+        "SUMAC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "131": {
+        "SUMAC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LATERAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "132": {
+        "Salt": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Slough": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "133": {
+        "Seeley": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "134": {
+        "Sewage": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Disposal": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "135": {
+        "Silsbee": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "136": {
+        "Siphon": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "137": {
+        "Sugar": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Refinery": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "138": {
+        "Sunbeam": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "139": {
+        "Sunbeam": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Recreation": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Area": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "140": {
+        "THISTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "141": {
+        "THISTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "142": {
+        "THISTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LATERAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "143": {
+        "THORN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "144": {
+        "THORN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ONE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "145": {
+        "TIMOTHY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "146": {
+        "TIMOTHY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ONE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "147": {
+        "TOKA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "148": {
+        "TOKAY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "149": {
+        "TOKAY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "150": {
+        "TRIFOLIUM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "151": {
+        "TUBEROSE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "152": {
+        "TURNIP": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "153": {
+        "Tamarack": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ranch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "154": {
+        "UNITED STATES DEPARTMENT OF THE INTERIOR GEOLOGICAL SURVEY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "155": {
+        "Union": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "156": {
+        "WASTE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WATER": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "DISPOSAL": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "AREA": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "157": {
+        "WESTERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "158": {
+        "WESTMORLAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "159": {
+        "WESTSIDE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRAIN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "160": {
+        "MAIN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "WESTSIDE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "161": {
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "162": {
+        "WT": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "163": {
+        "Westside": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "164": {
+        "Wilsie": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "165": {
+        "Witter": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

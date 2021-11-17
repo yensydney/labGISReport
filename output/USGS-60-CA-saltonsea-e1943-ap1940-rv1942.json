@@ -1,0 +1,1600 @@
+{
+    "0": {
+        "35 Miles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "60 Kilometers": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "APPROXIMATE MEAN DECLINATION 1943 ANNUAL MAGENATIC CHANGE 1' INCREASE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "ARROYO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SECO": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "AZTEC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "AZTEC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "6": {
+        "Acolita": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Advance Edition Subject to Correction": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Alamo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "River": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Amboy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Amos": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Arroyo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Grande": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "BEALS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "BLYTHE 23 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "BRAWLEY 5 MI.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BRAWLEY 4.5 MI.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BRAWLEY 2 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Bernice": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Bertram": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Black": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Butte": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Bliss": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Blythe": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Bombay": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "CADIZ": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "VALLEY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "22": {
+        "CALIFORNIA SALTON SEA QUADRANGLE GRID ZONE \"F\"": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "CAMP": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "YOUNG": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "C": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "H": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "O": {
+            "text_label": 11,
+            "shape": 5
+        },
+        "L": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 15,
+            "shape": 5
+        },
+        "T": {
+            "text_label": 14,
+            "shape": 5
+        },
+        "E": {
+            "text_label": 9,
+            "shape": 5
+        },
+        "M": {
+            "text_label": 10,
+            "shape": 5
+        },
+        "U": {
+            "text_label": 12,
+            "shape": 5
+        },
+        "N": {
+            "text_label": 17,
+            "shape": 5
+        },
+        "I": {
+            "text_label": 16,
+            "shape": 5
+        },
+        "S": {
+            "text_label": 18,
+            "shape": 5
+        }
+    },
+    "25": {
+        "CHUCKWALLA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MTS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "C": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "H": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "U": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "K": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "W": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 12,
+            "shape": 5
+        },
+        "L": {
+            "text_label": 14,
+            "shape": 5
+        },
+        "V": {
+            "text_label": 11,
+            "shape": 5
+        },
+        "E": {
+            "text_label": 15,
+            "shape": 5
+        },
+        "Y": {
+            "text_label": 16,
+            "shape": 5
+        }
+    },
+    "27": {
+        "CHUCKWALLA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "COACHELLA 28 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "29": {
+        "COACHELLA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "COLIMA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TUNNEL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "COMBAT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RANGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "COMBAT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RANGE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AREA": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "33": {
+        "COTTONWOOD": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "COTTONWOOD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MOUNTAINS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "TUNNEL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "COXCOMB": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MOUNTAINS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "CULTURE REVISIONS AUGUST,1942 BASED ON RECOMNAISSANCE BY 67TH ENGR. CO. (TOP.)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "Calipatria": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "Carrizo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Colton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gun": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Club": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Contour interval 500 feet": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Cottonwood": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Cottonwood": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Pass": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "DAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HIGHWAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "45": {
+        "DESERT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CENTER": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AIRPORT": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "46": {
+        "Date": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Palm": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Datum is mean sea level": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Dependable hard surface, heavy duty road.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "49": {
+        "Desert": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Center": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "Dos": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Palmas": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Durmid": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "52": {
+        "EAGLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MOUNTAIN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PUMPING": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "PLANT": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "53": {
+        "EAGLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MT": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "TUNNEL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "54": {
+        "E": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "G": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "L": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "M": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "T": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "S": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "55": {
+        "EAST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MESA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "56": {
+        "EAST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SIDE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HIGHLINE": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "57": {
+        "ELDORADO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "El Centro": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "59": {
+        "Estelle": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "60": {
+        "Flowing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Fonda": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Ford": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Dry": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Frink": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "64": {
+        "GRANITE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "GRANITE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MTS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "HARPER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "HOLTVILLE 17 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "68": {
+        "HOPKINS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "Hayfield": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Reservoir": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "70": {
+        "Hidden": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "71": {
+        "IMPERIAL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "COUNTY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "INDIO 14 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "73": {
+        "IRON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CHIEF": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "74": {
+        "JOSHUA": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "75": {
+        "TREE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "JULIAN 42 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "77": {
+        "Kane": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "78": {
+        "LITTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CHUCKWALLA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "MOUNTAINS": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "79": {
+        "LITTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SAN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BERNARDINO": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "MOUNTAINS": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Lost": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Palms": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "81": {
+        "MECCA 3.5 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "82": {
+        "MECCA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "DALE": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "83": {
+        "MESQUITE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRILL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HOLE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "84": {
+        "PALEN MOUNTAINS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Mammoth": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "86": {
+        "Wash": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "87": {
+        "McCain": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "88": {
+        "Mesquite": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "89": {
+        "Mortmar": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "90": {
+        "Mullet": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Island": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "91": {
+        "Mundo": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "92": {
+        "Munyon": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "93": {
+        "NATIONAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MONUMENT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "94": {
+        "Needles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "95": {
+        "New": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "River": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "96": {
+        "Niland": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "97": {
+        "OROCOPIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MTS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Obsidian": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buttes": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "99": {
+        "PALEN": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "100": {
+        "PINKHAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WELL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "P": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "I": {
+            "text_label": 9,
+            "shape": 5
+        },
+        "N": {
+            "text_label": 10,
+            "shape": 5
+        },
+        "T": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "O": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "B": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "S": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "102": {
+        "POSSIBLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CAMOUFLAGE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AREA": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "103": {
+        "POSSIBLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LANDING": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "FIELD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "104": {
+        "PRIEST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Paint": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pot": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "106": {
+        "Palen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Dry": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "107": {
+        "Palen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pass": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "108": {
+        "Pope": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "109": {
+        "Pumice": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buttes": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "110": {
+        "RED": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CLOOD": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "111": {
+        "RESTRICTED": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "112": {
+        "COUNTY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "113": {
+        "RIVERSIDE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "114": {
+        "ROAD CLASSIFICATIONSLoose surface graded, dry weather road.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "115": {
+        "ROAD CLASSIFICATIONSLoose surface graded, dry weather road.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "116": {
+        "Rockwood": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "117": {
+        "S": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 9,
+            "shape": 5
+        },
+        "L": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "T": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "O": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "N": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "E": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "118": {
+        "SALTON SEA, CALIF.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "119": {
+        "SAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HILLS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "120": {
+        "SANDIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BRANCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "121": {
+        "SCOTT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "122": {
+        "SEA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LEVEL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "123": {
+        "SERVICE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "124": {
+        "SOFT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SAND": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "125": {
+        "SOUTHERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "126": {
+        "Salt": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "127": {
+        "Salton": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "128": {
+        "Salton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "129": {
+        "Salton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "130": {
+        "Salvation": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pass": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "131": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Felipe": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "132": {
+        "Sea": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "View": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "133": {
+        "Secondary, hard surface, all weather road.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "134": {
+        "Shamrock": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "135": {
+        "Shavers": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Summit": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "136": {
+        "Shavers": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "137": {
+        "Skylark": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Garage": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "138": {
+        "Soda": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "139": {
+        "State Route": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "140": {
+        "Summit": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mt": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "141": {
+        "TRIFOLIUM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "142": {
+        "Tortuga": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "143": {
+        "Truckhaven": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "144": {
+        "Turn": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "145": {
+        "Twin": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mounds": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "146": {
+        "U": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "S": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "M": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "BASE": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "147": {
+        "U": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "S": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "N": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "AIR": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "BASE": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "148": {
+        "U.S. Route": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "149": {
+        "Unimproved road.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "150": {
+        "Verdant": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "151": {
+        "WAR DEPARTMENT CORPS OF ENGINEERS, U.S. ARMY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "152": {
+        "WATER POINT": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "153": {
+        "WATER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SURFACE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "250": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "FEET": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "BELOW": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "SEA": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "LEVEL": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "154": {
+        "Weist": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "155": {
+        "Westmorland": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "156": {
+        "Wister": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "157": {
+        "YUMA 32 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "158": {
+        "Yuma": {
+            "text_label": 1,
+            "shape": 5
+        }
+    }
+}

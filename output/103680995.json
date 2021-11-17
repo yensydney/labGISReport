@@ -1,0 +1,696 @@
+{
+    "0": {
+        "2": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "29": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "3ft RH": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "BP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "Baltic": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "Beeches": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "6": {
+        "Bloodshots": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cottage": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Bournemill": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Brick": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "9": {
+        "CCS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "CS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Castle": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "Castle": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Laundry": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "Clinic": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "Copyhold": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Corn": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Deakin": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Leas": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Drayton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "FF": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Five": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Oak": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Green": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "20": {
+        "GP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Girls": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Goldsmid": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "23": {
+        "Hastings": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "Hazel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shaw": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "25": {
+        "High": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bank": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "Judd": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Lamb's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bank": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cottages": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Lambsbank": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "Little": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Oak": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Lodge": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Little": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rook": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Lodge": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Oak": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Lodge": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Oak": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Lane": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "33": {
+        "MP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "MS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Mabledon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "May's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Furze": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "38": {
+        "PH": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "PO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Pembury": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Priory": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Priory": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Laundry": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "46": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rise": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "Queen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Victoria": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cottage": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "50": {
+        "Reservoir": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Rook": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Rookwood": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cottage": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "SP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "54": {
+        "ST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mary's": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "55": {
+        "Secondary": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "School": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "56": {
+        "Somerhill": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Park": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "57": {
+        "Southern": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Railway": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "Springwell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "Streamlands": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "60": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Drive": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Tonbridge": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Tonbridge": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Water": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Co": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Tudeley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lane": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "UD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bdy": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "UD Bdy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Und": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Vauxhall": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Inn": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "Vauxhall": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lane": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "68": {
+        "Weald": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "View": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "69": {
+        "Woodlands": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "70": {
+        "Woodside": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

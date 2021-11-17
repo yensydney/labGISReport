@@ -1,0 +1,852 @@
+{
+    "0": {
+        "(London": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Transport)": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "1": {
+        "Aberdeen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "2": {
+        "BEDFORD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "3": {
+        "BERNARD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "BERNARD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "BLOOMSBURY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "BRUNSWICK": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "BURTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Bank": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Bernard": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Brunswick": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "CARTWRIGHT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GARDENS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "CEMETARY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "(Disused)": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "14": {
+        "COLONNADE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "COMPTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "CORAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Church": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hall": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Coburgh": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Coram": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Dickens": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Downing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Engineering": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "23": {
+        "GALSEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "YARD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "GRENVILLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "25": {
+        "GUILFORD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "Garage": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "HANDEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "HENRIETTA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "HERBRAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "HUNTER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Handel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Hotel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Russel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Hunter": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Institute": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Opthalmology": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "35": {
+        "of": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "JUDD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Jenner": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "38": {
+        "KENTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "Knolly's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "LANDOWNE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "TERRACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "42": {
+        "LEIGH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Laundry": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "44": {
+        "MARCHMONT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "45": {
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "46": {
+        "Macnaghten": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Mary": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ward": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Settlement": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Milk": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bottling": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Depot": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "49": {
+        "Milk": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Distributing": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Depot": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "50": {
+        "National": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hotel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Nurses": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Homes": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "52": {
+        "POWIS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Peabody": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Premier": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hotel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "Presbyterian": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "56": {
+        "QUEEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "57": {
+        "QUEEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "58": {
+        "Queen": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "RUSSELL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "Robsart": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Robsart": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Rosin": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Royal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hotel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Russell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Russell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Square": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Russell": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "67": {
+        "Square": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "68": {
+        "SA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hostel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "School": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Medicine": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "(Royal": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Hospl)": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "70": {
+        "Free": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Selwyn": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Seymour": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Statue": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "74": {
+        "TRAVISTOCK": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Thackeray": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "for": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Sick": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Children": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "77": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "National": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "78": {
+        "Transport": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Depot": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "79": {
+        "WAKEFIELD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "80": {
+        "WOBURN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "81": {
+        "WOBURN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Ward": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bdy": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "Warhouse": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "84": {
+        "Waverley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mansions": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Whitley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "86": {
+        "Woburn": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

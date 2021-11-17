@@ -1,0 +1,306 @@
+{
+    "0": {
+        "3 ft.R.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "3ft.R.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "B.S": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "C.R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "C.S.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "5": {
+        "Def.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "E.P.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Eldridge's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "F.F.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Hamlet": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hole": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Bridge": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Hartlake": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "Hartlake": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "Latter's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "Lilley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Park": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "View": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Lock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Porter's": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Postern": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Park": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "R.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "20": {
+        "RIVER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEDAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Rats": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Castle": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Red": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cow": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "(B.H.)": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "23": {
+        "Roughs": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "S.F.P.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "25": {
+        "S.P.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "26": {
+        "RAILWAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "SOUTHERN": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Sandling": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "Sandling": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Shernden": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Shernden": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Tk.D.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Tudeley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hale": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Und.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Upper": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Postern": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "Wenham's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Whitepost": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Plantation": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

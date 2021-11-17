@@ -1,0 +1,2298 @@
+{
+    "0": {
+        "52\u20225": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "52\u20229": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "54\u20221": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "54\u20225": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "54\u20226": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "5": {
+        "54\u20229": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "54\u202291": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "55\u20222": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "55\u20223": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "55\u20224": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "56\u20224": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "56\u20229": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "57\u20224": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "58\u20220": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "58\u20225": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "59\u20227": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "60\u20223": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "61\u20220": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "18": {
+        "61\u20225": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "62\u20221": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "20": {
+        "62\u20222": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "21": {
+        "63\u20223": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "64\u20221": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "65\u20221": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "65\u20222": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "25": {
+        "65\u20229": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "26": {
+        "66\u20223": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "68\u20220": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "68\u20224": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "29": {
+        "70\u20224": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "30": {
+        "70\u20225": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "31": {
+        "70\u20228": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "32": {
+        "70\u20229": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "73\u20223": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "74\u20222": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "ALBION": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "ALBION": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "YARD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "ALDENHAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "38": {
+        "ALPHA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "ARGYLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "ARGYLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "ARGYLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Air": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shaft": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Albion": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Tin": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "44": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "51\u202239": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "45": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "54\u202287": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "46": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "55\u202262": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "47": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "56\u202291": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "57\u202290": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "58\u202267": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "58\u202298": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "59\u202211": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "52": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "63\u202241": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "65\u202273": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "66\u202210": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "66\u202292": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "56": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "67\u202216": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "57": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "67\u202245": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "67\u202285": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "68\u202228": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "68\u202288": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "69\u202281": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "62": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "70\u202204": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "70\u202216": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "71\u202229": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "71\u202240": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "72\u202224": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "74\u202222": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "68": {
+        "B.M.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "69": {
+        "B.O.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "70": {
+        "S.P": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "B.P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "71": {
+        "B.S": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "72": {
+        "BATTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BRIDGE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "73": {
+        "BELGRAVE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "74": {
+        "BIDBOROUGH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "75": {
+        "BOSTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "YARD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "BRILL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "77": {
+        "BUCKINGHAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "78": {
+        "Bank": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Battle": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bridge": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Site": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Black": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lead": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Blue": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "81": {
+        "Booking": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hall": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Bottle": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "Bottled": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beer": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Stores": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "84": {
+        "Boys": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "85": {
+        "&": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Girls": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "86": {
+        "C.R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "87": {
+        "CALEDONIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "88": {
+        "CALEDONIAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CRESCENT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "89": {
+        "CALEDONIAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "90": {
+        "CHALTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "91": {
+        "CHAPEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GROVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "92": {
+        "CHAPEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "93": {
+        "CHAPEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "94": {
+        "CHAPEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "95": {
+        "CHARRINGTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "96": {
+        "CHENEY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "97": {
+        "CHESTERFIELD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "98": {
+        "CHRISTOPHER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "99": {
+        "CHURCH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "100": {
+        "CLARENCE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PASSAGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "CLARENDON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GROVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "102": {
+        "CLARENDON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CLARENOON": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "103": {
+        "CRESCENT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVENUE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "CRESCENT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Cab": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Stand": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "106": {
+        "Cartridge": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Case": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "107": {
+        "Chapel": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "108": {
+        "Christ": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "109": {
+        "Coal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Depot": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "110": {
+        "Coal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shoot": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "111": {
+        "Coal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shoots": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "112": {
+        "Convent": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "113": {
+        "Culross": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Building": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "114": {
+        "D.F": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "115": {
+        "DERBY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "116": {
+        "DERBY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "117": {
+        "DRUMMOND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CRESCENT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "118": {
+        "DRUMMOND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "119": {
+        "Dining": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Room": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "120": {
+        "Div.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Parly.": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Boro.": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Bdy.": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "121": {
+        "EASTNOR": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "122": {
+        "EQUITY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BUILDINGS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "123": {
+        "EUSTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "124": {
+        "F.A": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "125": {
+        "F.H": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "F.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "126": {
+        "F.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "127": {
+        "F.P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "128": {
+        "F.W": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "129": {
+        "FIELD": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "130": {
+        "Foundry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "(Iron)": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "131": {
+        "G.N.R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "132": {
+        "Gas": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "133": {
+        "Girls": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "134": {
+        "Girls": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Infants": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Girls & Infants": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "135": {
+        "Goods": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shed": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "136": {
+        "Gravy's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Inn": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "137": {
+        "Great": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Northern": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hotel": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "138": {
+        "Gymnasium": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "139": {
+        "HAMPDEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "140": {
+        "HOTEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CURVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "141": {
+        "Hampden": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "142": {
+        "&": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "Colonial": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Society's": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Training": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "College": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "Schools": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "143": {
+        "Home": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "144": {
+        "Infants": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "145": {
+        "KING'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CROSS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "146": {
+        "King's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cross": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "147": {
+        "Cross": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "(Metropolitan)": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "148": {
+        "King's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cross": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "(Suburban)": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "149": {
+        "King's": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cross": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "150": {
+        "L.B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "151": {
+        "LANCING": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "152": {
+        "LAVINA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GROVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "153": {
+        "LITTLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DRUMMOND": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "154": {
+        "LIVERPOOL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "155": {
+        "Leather": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "156": {
+        "Lift": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "157": {
+        "MANCHESTER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "158": {
+        "METROPOLITAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RAILWAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "159": {
+        "MIDDLESEX": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "160": {
+        "MIDLAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RAILWAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "161": {
+        "MIDLAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "162": {
+        "Meth.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Chap.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "(Welsleyan)": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "163": {
+        "Milk": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Shed": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "164": {
+        "Milland": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Grand": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hotel": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "165": {
+        "Mission": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hall": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "166": {
+        "NORTH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "167": {
+        "Netherland": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Place": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "168": {
+        "OSSULTON": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "169": {
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "170": {
+        "Office": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "171": {
+        "Offices": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "172": {
+        "Ossulston": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Place": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "173": {
+        "P.H.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "174": {
+        "P.L.B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "175": {
+        "P.LB": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "176": {
+        "P.O.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "177": {
+        "PANCRAS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "178": {
+        "PENTONVILLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "179": {
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "180": {
+        "PHEONIX": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "181": {
+        "PLATT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "182": {
+        "PROVIDENCE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "183": {
+        "ROW": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "184": {
+        "Parly.": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "Co.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Div.,": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Union": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Boro.": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "Bdy.": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "185": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "186": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "1": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "187": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "2": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "188": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "3": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "189": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "4": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "190": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "5": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "191": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No.": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "6": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "192": {
+        "7": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "193": {
+        "Police": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Y.": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Division": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "194": {
+        "Presby.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Chapel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "195": {
+        "R.C.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Chapel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "196": {
+        "RAILWAY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "197": {
+        "RED": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LION": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PASSAGE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "198": {
+        "ROBERTS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "YARD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "199": {
+        "Refreshment": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Room": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "200": {
+        "S.B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "201": {
+        "S.P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "202": {
+        "SEYMOUR": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COURT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "203": {
+        "SOMERS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TOWN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "204": {
+        "SQUARE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "205": {
+        "ST.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CHAD'S": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "206": {
+        "STANMORE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "207": {
+        "STREET": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "208": {
+        "School": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "209": {
+        "School": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Girls": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "210": {
+        "Seats": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "for": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "1200": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "211": {
+        "Seats": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "for": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "800": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "212": {
+        "Smithy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "213": {
+        "St.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Jude's": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "214": {
+        "St.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pancras": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Emery": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Black": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Lead": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "215": {
+        "St.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pancras": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "216": {
+        "Stanley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "217": {
+        "Subway": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "218": {
+        "Swedenborgian": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Chapel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "219": {
+        "TONBRIDGE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "220": {
+        "TRAMWAY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "221": {
+        "Tanks": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "222": {
+        "Theatre": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "223": {
+        "Throat": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Ear": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "224": {
+        "Travelling": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "225": {
+        "Crane": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "226": {
+        "Trough": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "D.F": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Urinal": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "227": {
+        "Und.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "228": {
+        "Union": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Parly.": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Boro.": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Bdy.": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "229": {
+        "Urinal": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "230": {
+        "Vent": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "231": {
+        "Vicarage": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "232": {
+        "W.M": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "233": {
+        "WEIRS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PASSAGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "234": {
+        "WELLER'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COURT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "235": {
+        "WELLESLEY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "236": {
+        "WHARFDALE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "237": {
+        "WICKLOW": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "238": {
+        "WILSTED": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COTTAGES": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "239": {
+        "Wharf": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Road": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "240": {
+        "YORK": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "241": {
+        "York": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

@@ -1,0 +1,404 @@
+{
+    "0": {
+        "All": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Saints'": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "1": {
+        "Allotment": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gardens": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "2": {
+        "Bank": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "3": {
+        "Barham": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "Boys": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "Burgess": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rough": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "6": {
+        "Carpenters'": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Arms": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Inn": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Church": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Claypit": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rough": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Crockhurst": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Street": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Crockhurst": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Street": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Devils": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "F P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "GAS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WORKS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "14": {
+        "Gate": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Glebe": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Grave": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Yard": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Knowles": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bank": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Little": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Toll": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Long": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Field": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Nightingale": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "23": {
+        "OLD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "QUARRY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Furze": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Field": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "25": {
+        "Padwell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "Park": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Farm": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Pheasent": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "29": {
+        "RESERVIOR": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Reed": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Reservoir": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Rushpits": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wood": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "33": {
+        "SOMERHILL": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "SOMERHILL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PARK": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "SQUARE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WOOD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "Sheep": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pens": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Smithy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "Snails": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bottom": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "South": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Eastern": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Railway": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Tudeley": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Vicarage": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Village": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hall": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

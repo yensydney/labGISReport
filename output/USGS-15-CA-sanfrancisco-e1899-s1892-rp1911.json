@@ -1,0 +1,1624 @@
+{
+    "0": {
+        "(Haywards)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "(Napa 1/125000)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "(San Mateo) Scale 1/62500": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "122\u00b030' 38\u00b000'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "37\u00b045' 122\u00b015'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "5": {
+        "A.H. Thompson, Geographer. Willard D. Johnson, Topographer in charge. Triangulation by U.S. Coast and Geodetic Survet": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "ALAMEDA": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "ALAMEDA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CO.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Adeline": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Alcatraz": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Id.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Angel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Id.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "Arch": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "Ashby": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ave": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "BERKELEY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "BERKELEY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HILLS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "BOUNDARY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Barrett": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Belvedere": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Black": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Bluff": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Blunt": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Brooks": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Id.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "22": {
+        "CALIFORNIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NEVADA": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "23": {
+        "CALIFORNIA SAN FRANCISCO QUADRANGLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "CONTRA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COSTA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CO.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "25": {
+        "CORTE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "MADERA": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "26": {
+        "California": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Campbell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Castro": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "Castro": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Cavallo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Cem.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Cemetery": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Cerrito": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Cerrito": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Cauncey": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "Cliff": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Cone": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "38": {
+        "Contour interval 25 feet": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "Cordonices": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Datum is mean sea level": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Deep": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Water": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Channel": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Dwight": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Way": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "ENGRAVED AUG. 1895 BY U.S.G.S.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "44": {
+        "Edition of Feb. 1899, reprinted Sept. 1911": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Emery": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "46": {
+        "FORT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MASON": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Flemings": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Fort": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "GOLDEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GATE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "GOLDEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GATE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PARK": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Giant": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Gibbon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Goat": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Id.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Golden": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gate": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "Highland": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "56": {
+        "Horseshoe": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bay": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "57": {
+        "Hospital": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cove": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "Isabel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "Kilometers": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "60": {
+        "Knox": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "L.S.S.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "62": {
+        "LIGHT": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "63": {
+        "LIVERMORE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Lake": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Merritt": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Lime": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Lobos": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "Lone": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "68": {
+        "Lorin": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "69": {
+        "MARIN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CO.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "70": {
+        "MARIN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PENINSULA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Marin": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ids.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Mile": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rocks": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Military": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Reservation": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "74": {
+        "Mission": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Molate": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "Mountain": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "77": {
+        "N.P.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COAST": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "R.R.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "78": {
+        "N.P.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "COAST": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "R.R.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Needles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Noble": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "81": {
+        "North": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Berkeley": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "North": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "OAKLAND": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "84": {
+        "OAKLAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MOLE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Oakland": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Harbor": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "86": {
+        "PINOLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "87": {
+        "PINOLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RIDGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "88": {
+        "POTRERO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SAN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PABLO": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "89": {
+        "PUEBLO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LANDS": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "OF": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "SAN": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "FRANCISCO": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "90": {
+        "PUNTA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "QUENTIN": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "91": {
+        "Peninsula": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "92": {
+        "Peralta": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "93": {
+        "Pinole": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "94": {
+        "Potrero": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Nuevo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "95": {
+        "Potrero": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "96": {
+        "Presidio": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "97": {
+        "Pt.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Diablo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Pt.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lobos": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "99": {
+        "Pt.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Tiburon": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "100": {
+        "Quarry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "R.R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "102": {
+        "R4W": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "103": {
+        "RACCOON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STRAIT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "REFERENCE MAP FILE HISTORY DEPARTMENT LOS ANGELES PUBLIC LIBRARY 630 WEST FIFTH STREET LOS ANGELES CALIF 90007": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "105": {
+        "RICHARDSON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "106": {
+        "Red": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "107": {
+        "Richmond": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "108": {
+        "Rincon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "109": {
+        "S. P. R. R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "110": {
+        "S. P. R. R.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "NARROW": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "GAUGE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "111": {
+        "S.P.R.R.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "112": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANTONIO": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "113": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FRANCISCO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "SAN FRANCISCO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "114": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FRANCISCO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "NORTH": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "R.R.": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "115": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FRANCISCO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BAY": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "116": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FRANCISCO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CO.": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "CITY": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "117": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MIGUEL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "118": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PABLO": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "119": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PABLO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BAY": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "120": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PABLO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "RIDGE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "121": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PABLO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "STRAIT": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "122": {
+        "SANTA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MARGARITA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Y": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "LAS": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "GALLINAS": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "123": {
+        "SAUSALITO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "124": {
+        "SOBRANTE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "125": {
+        "SOBRANTE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RIDGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "126": {
+        "SOUTHERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "127": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Antonio": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "128": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pablo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "129": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pablo": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "130": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pablo": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "131": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pablo": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Sta.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "132": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pedro": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "133": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Quentin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "134": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Quentin": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "135": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rafael": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cr.": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "136": {
+        "Sausalito": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "137": {
+        "Sausalito": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "138": {
+        "Seal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rocks": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "139": {
+        "Shag": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "140": {
+        "Shell": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mound": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "141": {
+        "Simpton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "142": {
+        "Sixteenth": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "St.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "143": {
+        "Sobrante": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "144": {
+        "Steamboat": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "145": {
+        "Stege": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "146": {
+        "Strawberry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "147": {
+        "Strawberry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "148": {
+        "Strawberry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "149": {
+        "Stuart": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pt.": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "150": {
+        "Sutro": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Crest": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "151": {
+        "T2N": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "152": {
+        "TIBURON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PENINSULA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "153": {
+        "TOPOGRAPHY (Napa 1/125000)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "154": {
+        "Tamalpais": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "155": {
+        "Telegraph": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "156": {
+        "Temescal": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "157": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Brothers": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "158": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sisters": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "159": {
+        "Topography by U.S.C. and G.S., U.S. Eng. Corps, City Surveys and by R.H. Chapman. R.B. Marshall and W.H. Otis. Surveyed in 1892-93-94.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "160": {
+        "U.S. GEOLOGICAL SURVEY GEORGE OTIS SMITH, DIRECTOR": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "161": {
+        "U.S.": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Marine": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hospital": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "162": {
+        "University": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "California": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "163": {
+        "V & D": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PARALIA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "164": {
+        "West": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Berkeley": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "165": {
+        "Wildcat": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "166": {
+        "Yellow": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bluff": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

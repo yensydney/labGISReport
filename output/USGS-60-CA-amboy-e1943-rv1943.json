@@ -1,0 +1,988 @@
+{
+    "0": {
+        "12 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "1415": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "160": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "1873": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "22.5 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "5": {
+        "23 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "23.5 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "3 Lane": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "30": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "3334": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "4 Lane": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "4600": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "5300": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "66": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "8.5 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Amboy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "And": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Archer": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "18": {
+        "Arimo": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "Army Map Service US Army Washington DC 21494 1942": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Atchison": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "21": {
+        "Atchison": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Topeka": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "and": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Santa": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Fe": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Bagdad": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "Barrel": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "Base compiled from US Geological Surey Quadrangles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "25": {
+        "Beecher": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "Blind": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Bolo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "Bonanza": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "King": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "29": {
+        "Bonanza": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "Bristol": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "Bristol": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "Bush": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Cadiz": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Cadiz": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Calif": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "36": {
+        "California": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "37": {
+        "Chambless": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "Chubbuck": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "Clipper": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "40": {
+        "Clipper": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Contour interval 250 feet": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "Control from US Geological Survey": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Cooks": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "Corps": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Engineers": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Cotton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "46": {
+        "County": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "47": {
+        "Cove": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "Dale": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "Danby": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "50": {
+        "Danby": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Datum is mean sea level": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Dependable hard-surface heavy-duty road": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Desert": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Center": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Dry": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "55": {
+        "E Bullion": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "56": {
+        "Essex": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "57": {
+        "F": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "58": {
+        "Fenner": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "59": {
+        "Fenner": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "Fishel": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Flynn": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Glasglow": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Goffs": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Granite": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "Grid": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Zone": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "Honeymoon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "In the US Zone F. U. S. C. & G. S. Special publication No 59": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "68": {
+        "Iron": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "Klondike": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "70": {
+        "Loose-surface graded dry weather road": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Ludlow": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Mable": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Martin": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "74": {
+        "McCoy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Milligan": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "76": {
+        "More than two lanes indicated by note along road with tick at point of charge": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "77": {
+        "Mountains": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "78": {
+        "N3400-W11500/60": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Needles": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Note: officers using this map will mark hereon corrections and additions which come": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "81": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Dad": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "Old": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Dad": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "84": {
+        "Old Woman": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "85": {
+        "Pacific": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "86": {
+        "Pinto": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "87": {
+        "Piute": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "88": {
+        "Piute": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "89": {
+        "Polyconic Projection north america datum 1927": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "90": {
+        "Prepared under the direction of the Chief of Engineers US Army": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "91": {
+        "Providence": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "92": {
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "93": {
+        "Quadrangle": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Quadranle": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "94": {
+        "Redondo": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "95": {
+        "Revised from State highway maps for california": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "96": {
+        "Rice": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "97": {
+        "Riverside": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Road Classification": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "99": {
+        "Salton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sea": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "100": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bernardino": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "101": {
+        "Sandy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "102": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fe": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "103": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fe": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "Scale": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Secondary hard-surface all-weather road": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "106": {
+        "Sheep": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hole": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "107": {
+        "Ship": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "108": {
+        "Ship": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mountains": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "109": {
+        "Siam": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "110": {
+        "Siberia": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "111": {
+        "Spring": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "112": {
+        "State route": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "113": {
+        "Sunflower": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "114": {
+        "Sunflower": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "115": {
+        "The Last three digits of the grid numbers are omitted": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "116": {
+        "To their attention and mail direct to the chief of engineering washington dc": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "117": {
+        "Topeka": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "118": {
+        "Trojan": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "119": {
+        "Twenty Thousand yard grid computed from grid system for progressive maps": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "120": {
+        "US": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Army": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "121": {
+        "US Route": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "122": {
+        "Unimproved road": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "123": {
+        "Union": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "124": {
+        "Van": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Winkle": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Spring": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "125": {
+        "War": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Department": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "126": {
+        "Weavers": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Well": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "127": {
+        "Well": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "128": {
+        "Wilhelm": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Camp": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "129": {
+        "Willow": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "130": {
+        "Woman": {
+            "text_label": 1,
+            "shape": 5
+        }
+    }
+}

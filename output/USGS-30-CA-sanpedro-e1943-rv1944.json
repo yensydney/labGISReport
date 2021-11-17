@@ -1,0 +1,2590 @@
+{
+    "0": {
+        "1.0 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "10": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "101": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "101": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "6": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "101": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "A": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "11": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "1180 40' 1170": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "118\u00b000'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "118\u00b030' 34\u00b000'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "1200 50' 1190": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "1210 660 000 CALIF. 6": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "1260 000 YARDS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "1270 20'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "1280 10' 1290": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "12\u00b0 13\u00b0 14\u00b0 15\u00b0 16\u00b0": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "1300": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "1320 000 CALIF. 6": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "17": {
+        "1322": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "18": {
+        "1349": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "19": {
+        "14": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "20": {
+        "16": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "21": {
+        "18": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "180 000": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "19": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "1941. Control by U.S.C. & G.S. Polyconic Projection, North American datum, 1927.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "25": {
+        "201": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "26": {
+        "22": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "26": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "3": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LANE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "33\u00b030' 118\u00b000'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "30": {
+        "33\u00b030' 118\u00b030'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "31": {
+        "345": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "32": {
+        "34\u00b000'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "35": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "364": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "367": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "36": {
+        "4": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LANE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "402": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "409": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "39": {
+        "500 000 CALIF. 6": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "40": {
+        "57": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "41": {
+        "6": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "910": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "43": {
+        "ALAMEDA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "ANAHEIM 5 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "45": {
+        "AND ADDITIONS WHICH COME TO THEIR ATTENTION AND MAIL DIRECT TO THE CHIEF OF ENGINEERS, WASHINGTON D.C.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "46": {
+        "APPROXIMATE MEAN DECLINATION 1943 FOR CENTER OF SHEET ANNUAL MAGNETIC CHANGE 1' DECREASE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "47": {
+        "ARMY MAP SERVICE. U.S. ARMY. WASHINGTON D.C. 112576 9/44 SX 1943": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "48": {
+        "ATCHINSON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TOPKEA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "SANTA": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "FE": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "TOPEKA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "ATLANTIC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BLVD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "50": {
+        "Aero": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Corp": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Calif": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Field": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "51": {
+        "Airport": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Alt": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "101": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Anaheim": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bay": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Anaheim": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "55": {
+        "Artesia": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "56": {
+        "Athens": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "57": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "58": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "59": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "113": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "119": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "61": {
+        "157": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "62": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "24": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "43": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "64": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "45": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "65": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "48": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "57": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "67": {
+        "BM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "62": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "68": {
+        "BOLSA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "BOLSA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CHICA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "70": {
+        "BREAKWATER": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "71": {
+        "BYP": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "101": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Baldwin": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hills": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Ballona": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "74": {
+        "Ballona": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lagoon": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Barber": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "City": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "76": {
+        "Bell": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "77": {
+        "Bellflower": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "78": {
+        "Bixby": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Bixby": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Slough": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "80": {
+        "Bluff": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cove": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "81": {
+        "Bolso": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bay": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Boulon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "83": {
+        "CALIF. 5": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "84": {
+        "CALIF. 5 1 860 000": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "85": {
+        "CALIF. 5 1160 000 Yards": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "86": {
+        "CALIF. 5 2 000 000": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "87": {
+        "CALIF. 6 1 460 000": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "88": {
+        "CALIFORNIA SAN PEDRO QUADRANGLE GRID ZONE \"G\"": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "89": {
+        "CALIFORNIA SAN PEDRO QUADRANGLE GRID ZONE \"G'": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "90": {
+        "CALUMOS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "91": {
+        "CAPISTRANO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "92": {
+        "CHICA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "68": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "93": {
+        "CONTOUR INTERVAL 100 FEET DATUM IS MEAN SEA LEVEL TEN THOUSAND YARD GRID COMPUTED FROM \"GRID SYSTEM FOR PROGRESSIVE MAPS IN THE U.S.\" ZONE G. U.S.C. & G.S. SPECIAL PUBLICATION NO. 59": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "94": {
+        "CORONA": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "95": {
+        "CULVER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BLVD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "96": {
+        "Carmenita": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "97": {
+        "Centinela": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "98": {
+        "Central": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "99": {
+        "Clearwater": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "100": {
+        "Clifton": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "101": {
+        "Compton": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "102": {
+        "Compton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "103": {
+        "Compton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cr": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "104": {
+        "Coyote": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Creek": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "105": {
+        "Culver": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "City": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "106": {
+        "DAWSON": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "107": {
+        "DEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "REY": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AUXILLIARY": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "LAC": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "C": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "108": {
+        "CHANNEL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "109": {
+        "DOMINGUEZ": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HILL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "110": {
+        "DOMINGUEZ": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "111": {
+        "DOMINGUEZ": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RESERVOIR": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "112": {
+        "Dominguez": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "113": {
+        "Dominguez": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Channel": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "114": {
+        "Dominguez": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "115": {
+        "Dominguez": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Junction": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "116": {
+        "Dominguez": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Memorial": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Seminary": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "117": {
+        "Downey": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "118": {
+        "Dycer": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "119": {
+        "EDISON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "INTAKE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PIER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "120": {
+        "East": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Basin": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Chan": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "121": {
+        "East": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "San": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Pedro": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "122": {
+        "East": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Whittier": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "123": {
+        "El": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Nido": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "124": {
+        "El": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Segundo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "125": {
+        "FIRST EDITION-AMS 2": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "126": {
+        "FLAGSTAFF": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "127": {
+        "FULLERTON 12 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "128": {
+        "First Edition (AMS 1) 1943; revised (AMS 2), 1944. Prepared under the direction of the Chie fof Engineers, U.S. Army, By Army Map Service, San Antonio Branch, 1943. Compiled from U.S.G.S. Quadrangles 1923-1925, Tactical Maps by 29th Engineers, U.S. Army,": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "129": {
+        "Fish": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Harbor": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "130": {
+        "Flat": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Rock": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "131": {
+        "Fruitland": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "132": {
+        "Fulton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Wells": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "133": {
+        "GOLDEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WEST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "134": {
+        "GOULD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LANE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "135": {
+        "GRID DECLINATION 1\u00b023' OR 25 MILS E": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "136": {
+        "GRID DECLINATION 1\u00b040' OR 30 MILS E.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "137": {
+        "Gardena": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "138": {
+        "HWY. 99": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "139": {
+        "HWY. 99 1.0 MI. BUENA VISTA PARK 2 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "140": {
+        "Harbor": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "City": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "141": {
+        "Hawthorne": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "142": {
+        "Hermosa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "143": {
+        "Hog": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "144": {
+        "Hollydale": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "145": {
+        "Hot": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "146": {
+        "Hughes": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "147": {
+        "Huntington": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "148": {
+        "Huntington": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Park": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "149": {
+        "Inglewood": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "150": {
+        "Inglewood": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Park": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Cem": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "151": {
+        "Inspiration": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "152": {
+        "Kellys": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "153": {
+        "LAC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "OF": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "C": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "LAFC": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "154": {
+        "LONG": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BEACH": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BREAKWATER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "155": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "156": {
+        "LOS ANGELES 3.0 MI": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "157": {
+        "LOS ANGELES 4 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "158": {
+        "LOS ANGELES 6 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "159": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "SAN": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "DIEGO": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "BRANCH": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "160": {
+        "LOS ANGELES CITY HALL 12. MI CULVER CITY 2 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "161": {
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CO": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "162": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HARBOR": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "163": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NW": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "BASE": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "128": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "164": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANGELES": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "RIVER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "165": {
+        "LOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PALOS": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "VERDES": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "166": {
+        "LOYOLA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "UNIVERSITY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "167": {
+        "La": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Mirada": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "168": {
+        "Laguna": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "169": {
+        "Lakewood": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Village": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "170": {
+        "Lawndale": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "171": {
+        "Lennox": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "172": {
+        "Lomita": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "173": {
+        "Long": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "174": {
+        "Long": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "175": {
+        "Los": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Alamitos": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "176": {
+        "Los": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Nietos": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "177": {
+        "Lunada": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bay": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "178": {
+        "Lynwood": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "179": {
+        "MONTEBELLO 4.0 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "180": {
+        "Malaga": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Cove": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "181": {
+        "Manhattan": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "182": {
+        "Monte": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bello": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "183": {
+        "Mormon": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "184": {
+        "NEWPORT BEACH 4.9 MI. SAN DIEGO 89.9 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "185": {
+        "Nigger": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Slough": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "186": {
+        "No": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "5": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "187": {
+        "North": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Long": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "188": {
+        "Norwalk": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "189": {
+        "OCEAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PARK": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PIER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "190": {
+        "OIL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FIELD": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "191": {
+        "OIL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "TANKS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "192": {
+        "ORANGE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CO": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "193": {
+        "Obed": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bell": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Sta": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "194": {
+        "PACIFIC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ELECTRIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "195": {
+        "PACIFIC": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "OCEAN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "196": {
+        "PASADENA 12 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "197": {
+        "PASADENA 1:62,500": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "198": {
+        "POMONA 1:62.500": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "199": {
+        "POWER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLANT": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "200": {
+        "Palos": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Verdes": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hills": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "201": {
+        "Perry": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "202": {
+        "Point": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fermin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "203": {
+        "Point": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Vincente": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "204": {
+        "Portuguese": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bend": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "205": {
+        "Portuguese": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "206": {
+        "RESERVOIR": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "207": {
+        "RESTRICTED": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "208": {
+        "RS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "209": {
+        "Radio": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sta": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "210": {
+        "Redondo": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "211": {
+        "Reservation": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "212": {
+        "Reservoir": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "213": {
+        "Rio": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hondo": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "214": {
+        "Rivera": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "215": {
+        "Rocky": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "216": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "GABRIEL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "RIVER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "217": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "1479": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "218": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BAY": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "219": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CHANNEL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "220": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HILLS": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "221": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NW": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "BASE": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "222": {
+        "SAN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PEDRO": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "SE": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "BASE": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "223": {
+        "SAN PEDRO, CALIF. N330-W11800/30": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "224": {
+        "SANTA ANA 7.0 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "225": {
+        "SANTA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ANA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BRANCH": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "226": {
+        "SANTA CATALINA ISLAND NO1 1:25,000": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "227": {
+        "SANTA CATALINA ISLAND NO2 1:25,00": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "228": {
+        "SANTA MONICA 1:62,500": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "229": {
+        "SANTA MONICA 2 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "230": {
+        "MONICA": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "BAY": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "231": {
+        "SANTA": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "232": {
+        "SEWER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "OUTLET": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PIER": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "233": {
+        "SLATER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AVE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "234": {
+        "SOUTH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "WESTERN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "LAC": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "C": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "235": {
+        "SOUTHERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "236": {
+        "SP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "237": {
+        "SPRINGDALE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "238": {
+        "STANDARD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "OIL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "CO.": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "PIER": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "239": {
+        "SUNSET BLVD. 7 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "240": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pedro": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "241": {
+        "San": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Pedro": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "242": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fe": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "243": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Fe": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Springs": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Sta": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "244": {
+        "Santa": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Monica": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "245": {
+        "Seal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "246": {
+        "Seal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Airport": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "247": {
+        "Slip": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "No": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "248": {
+        "South": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Clearwater": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "249": {
+        "South": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Gate": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "250": {
+        "Strawberry": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Park": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "251": {
+        "Studebaker": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "252": {
+        "Sunset": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Beach": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "253": {
+        "THE LAST THREE DIGITS OF THE GRID NUMBERS ARE OMITTED THE STATE GRIDS ARE INDICATED FOR CALIFORNIA ZONE 6 BY ..... TICKS. FOR ZONES BY _._ TICKS OUTSIDE THE NEAT LINE AT 200000 FOOT INTERVALS NOTE:  OFFICERS USING THIS MAP WILL MARK HEREON CORRECTIONS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "254": {
+        "TOPANGA BEACH 8 MI.": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "255": {
+        "Terminal": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Island": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "256": {
+        "Thenard": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Junction": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "257": {
+        "Torrance": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "258": {
+        "Turning": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Basin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "259": {
+        "UNION": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PACIFIC": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "260": {
+        "UP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "261": {
+        "Use diagram only to obtain numerical values. To determine magnetic north line connect the pivot point \"P\" on the south edge of the map with the value of the angle between the grid and magnetic north, as plotted on the degree scale at the north edge of th": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "262": {
+        "VENICE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PIER": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "263": {
+        "Venice": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "264": {
+        "Vultee": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Field": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "265": {
+        "WAR DEPARTMENT CORPS OF ENGINEERS, U.S. ARMY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "266": {
+        "WEST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BEACH": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NO": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "3": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "USC": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "GS": {
+            "text_label": 7,
+            "shape": 5
+        }
+    },
+    "267": {
+        "WEST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BREAKWATER": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "268": {
+        "Walteria": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "269": {
+        "Watcharn": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Basin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "270": {
+        "Watson": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Crossing": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "271": {
+        "Watts": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "272": {
+        "West": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Basin": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "273": {
+        "Westminster": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "274": {
+        "Whites": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Point": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "275": {
+        "Whittier": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "276": {
+        "Willowbrook": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "277": {
+        "Wilmington": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "278": {
+        "Workman": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "279": {
+        "Workman": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hill": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

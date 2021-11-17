@@ -1,0 +1,312 @@
+{
+    "0": {
+        "(B.H)": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "1": {
+        "B M": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "2": {
+        "B S": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "3": {
+        "B.M": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "BOAT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HOUSE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "BS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "6": {
+        "C.B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "7": {
+        "C.D": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "DEF": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "ELDRIDGE'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LOCK": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "F B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "F P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "12": {
+        "F.B": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "F.F": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "F.P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "15": {
+        "FP": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "HAMLET": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HOLE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "HIGH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BRIDGE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "LILLEY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FARM": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "PORTER'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LOCK": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "POSTERN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PARK": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "R.H": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "RATS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CASTLE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "23": {
+        "RED COW": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "24": {
+        "RIVER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEDWAY": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "25": {
+        "ROUGHS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "26": {
+        "S P": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "27": {
+        "S.M": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "SANDLING": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FARM": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "SHERNDEN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FARM": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "SLUICE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "31": {
+        "SOUTH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "EASTERN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "RAILWAY": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "32": {
+        "STONE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "PATH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "34": {
+        "TK D": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "TOWING": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "36": {
+        "TUDELEY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HALE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "UND": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "38": {
+        "UPPER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "POSTERN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "WATERFALL": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "40": {
+        "WENHAMS'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FARM": {
+            "text_label": 2,
+            "shape": 5
+        }
+    }
+}

@@ -1,0 +1,468 @@
+{
+    "0": {
+        "(Salton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sink)": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "1": {
+        "100": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "feet": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "below": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "sea": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "level": {
+            "text_label": 5,
+            "shape": 5
+        }
+    },
+    "2": {
+        "ALAMITOS": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "3": {
+        "ALAMO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RIVER": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "4": {
+        "BAJA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CALIFORNIA": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "BOUNDARY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "LINE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "6": {
+        "Brice": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Siding": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Brooks": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Switch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "8": {
+        "CALIFORNIA": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "9": {
+        "CALIFORNIA (IMPERIAL COUNTY) HOLTVILLE QUANDRANGLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Calexico": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "11": {
+        "DEAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "DEER": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "13": {
+        "Peak": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "14": {
+        "French": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Lake": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Glamis": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "16": {
+        "Gleason": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Switch": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "17": {
+        "HEMLOCK": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "HICKORY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "HOLT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "HOLT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NO": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "6": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "21": {
+        "HOLTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "INTERURBAN": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "22": {
+        "Holtville": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "23": {
+        "MAIN": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "MEXICO": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "25": {
+        "NO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "1": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "26": {
+        "NO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "3": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "NO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "5": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "28": {
+        "NO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "7": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "OAT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CANAL": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "PALM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "PALMETTO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "32": {
+        "PAMPAS": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "34": {
+        "PEACH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "35": {
+        "PEAR": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "PLUM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "POMELO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "38": {
+        "QUINCE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "REDWOOD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "RUBBER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "DITCH": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "41": {
+        "Ruthven": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "42": {
+        "SAND": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "HILLS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "SF": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NO": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "LINE": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "44": {
+        "SPRR": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Sea": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Level": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "46": {
+        "Sunset": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Spr": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "47": {
+        "UNITED": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STATES": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "UNITED STATES DEPARTMENT OF THE INTERIOR GEOLOGICAL SURVEY": {
+            "text_label": 1,
+            "shape": 5
+        }
+    }
+}

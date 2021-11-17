@@ -1,0 +1,864 @@
+{
+    "0": {
+        "ACTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "1": {
+        "AMPTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "2": {
+        "AMPTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "3": {
+        "ARGYLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "4": {
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "5": {
+        "Air": {
+            "text_label": null,
+            "shape": 5
+        },
+        "Shaft": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "6": {
+        "BRITANNIA": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "7": {
+        "Bank": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "8": {
+        "Baptist": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "9": {
+        "Boot": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Factory": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "10": {
+        "Bottling": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Depot": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "11": {
+        "CROMER": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "12": {
+        "CUBITT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "13": {
+        "Chy": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "14": {
+        "Clothing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Factory": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "15": {
+        "Derby": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Buildings": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "16": {
+        "El": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Sub": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Sta": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "17": {
+        "Engineering": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "18": {
+        "FIELD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "19": {
+        "FREDERICK": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "20": {
+        "Fiona": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "21": {
+        "GRANVILLE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "22": {
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "23": {
+        "GRANVILLE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "24": {
+        "GRAY'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "INN": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "25": {
+        "GREAT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PERCY": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "26": {
+        "GWYNNE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "27": {
+        "Garage": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "28": {
+        "H": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Ramp": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "29": {
+        "HARRISON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "30": {
+        "HEATHCOTE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "31": {
+        "HOLFORD": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "32": {
+        "PLACE": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "33": {
+        "Hostel": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "34": {
+        "Institute": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "35": {
+        "Iron": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Foundry": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "36": {
+        "Iron": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "37": {
+        "KING'S": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROAD": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "38": {
+        "CROSS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "39": {
+        "LEEKE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "40": {
+        "LLOYD": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BAKER": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "41": {
+        "LORENZO": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "42": {
+        "MODEL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "BUILDINGS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "43": {
+        "Magistrates": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Court": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "44": {
+        "Met": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "B": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "&": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Boro": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "Const": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "Bdy": {
+            "text_label": 6,
+            "shape": 5
+        }
+    },
+    "45": {
+        "Nurses": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Home": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "46": {
+        "PAKENHAM": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "47": {
+        "PENTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RISE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "48": {
+        "PERCY": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CIRCUS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "49": {
+        "PH": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "50": {
+        "PRIDEAUX": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "51": {
+        "PROSPECT": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "TERRACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "52": {
+        "Peperfield": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "53": {
+        "Pioneer": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "54": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "55": {
+        "Platform": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "56": {
+        "Playground": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "57": {
+        "Police": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Station": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "58": {
+        "Prideaux": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "59": {
+        "Printing": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Works": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "60": {
+        "ROYAL": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "FREE": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "HOSPITAL": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "61": {
+        "Ramp": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "62": {
+        "Rowton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "63": {
+        "Ruin": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "64": {
+        "Ruins": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "65": {
+        "SIDMOUTH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "MEWS": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "66": {
+        "SIDMOUTH": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "67": {
+        "ST": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "CHAD'S": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "68": {
+        "SWINTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "PLACE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "69": {
+        "SWINTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "70": {
+        "School": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "71": {
+        "Schhol": {
+            "text_label": null,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "72": {
+        "Stanley": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "73": {
+        "Swinton": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "House": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Bank": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "74": {
+        "THE": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "ROYAL": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "NATIONAL": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "THROAT": {
+            "text_label": 4,
+            "shape": 5
+        },
+        "NOSE": {
+            "text_label": 5,
+            "shape": 5
+        },
+        "AND": {
+            "text_label": 6,
+            "shape": 5
+        },
+        "EAR": {
+            "text_label": 7,
+            "shape": 5
+        },
+        "HOSPITAL": {
+            "text_label": 8,
+            "shape": 5
+        }
+    },
+    "75": {
+        "Exchange": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "76": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Bell": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "77": {
+        "Pinder": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "of": {
+            "text_label": 3,
+            "shape": 5
+        },
+        "Wakefield": {
+            "text_label": 4,
+            "shape": 5
+        }
+    },
+    "78": {
+        "The": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "79": {
+        "Trough": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "80": {
+        "VERNON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RISE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "81": {
+        "VERNON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "SQUARE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "82": {
+        "Vernon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Baptist": {
+            "text_label": 2,
+            "shape": 5
+        },
+        "Church": {
+            "text_label": 3,
+            "shape": 5
+        }
+    },
+    "83": {
+        "Vernon": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "Hall": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "84": {
+        "WESTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "RISE": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "85": {
+        "WHARTON": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "86": {
+        "WICKLOW": {
+            "text_label": 1,
+            "shape": 5
+        },
+        "STREET": {
+            "text_label": 2,
+            "shape": 5
+        }
+    },
+    "87": {
+        "Clinic": {
+            "text_label": 1,
+            "shape": 5
+        }
+    },
+    "88": {
+        "Telephone": {
+            "text_label": 1,
+            "shape": 5
+        }
+    }
+}
