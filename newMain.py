@@ -62,7 +62,7 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
 
         # make the dictionary
         annotation_dict[phraseIndex][wordLoc] = {'text_label': i[word], 'shape': shape.shapeType }
-
+       
     # make into json file
     with open( "output/" + fileName + ".json", "w" ) as f:
         json.dump( annotation_dict, f, indent = 4 )
@@ -144,13 +144,13 @@ def main():
         #print( "record dict keys: ", realKeyDict)
 
         # calling function to create json file
-        ret = parseSFWithKey( sf, realKeyDict['phrase'], realKeyDict['loc'], realKeyDict['word'], fileName )
+        ret = parseSFWithKey( sf, realKeyDict['phrase'], realKeyDict['word'], realKeyDict['loc'], fileName )
         if ret == 0:
             print( " ... ok" )
         else:
             print( " ... failed" )
             FailureCount += 1
-
+        
     print()
     print( "Total", len( targetShps ), "shape folders parsed. ", FailureCount, "failure." )
 
