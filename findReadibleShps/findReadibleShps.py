@@ -1,7 +1,7 @@
 import os
 import sys
 
-def fromDir( targetDir ):
+def fromDir( targetDir, printRealError = False ):
 
     targetList = []
 
@@ -18,8 +18,10 @@ def fromDir( targetDir ):
                     found = True
             if not found :
                 print( "WARN: No .dbf found in ", shpDir)
-        except:
+        except Exception as e:
             print("Find invalid operation in", d)
+            if printRealError:
+                print("ErrorHAHAHAHH: ", e)
             continue
 
     return targetList

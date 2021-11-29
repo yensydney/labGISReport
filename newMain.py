@@ -113,7 +113,7 @@ def main():
     os.makedirs( "output", 511, True )
 
     # calling function to look for available DBFs from the file to make into a list
-    targetShps = findReadibleShps.fromDir( targetDir )
+    targetShps = findReadibleShps.fromDir( targetDir, True )
 
     FailureCount = 0
     # looping through the list of DBFs
