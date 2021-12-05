@@ -19,6 +19,15 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
     # retreiving shapes from sf shapes
     shapes = sf.shapes()
 
+    # oid looping through everything
+    # for rec in records:
+    #     oid = rec.oid
+    #     currentShape = shapes[oid]
+    #     coord = currentShape.points
+    #     print(oid, coord)
+    #     print()
+    # sys.exit()
+
     # turning each record into a dictionary and adding it to a list
     for i in range(len(records)):
         currentRecord = sf.record(i)
@@ -28,6 +37,7 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
 
         # print(currentRecord)
         dic = currentRecord.as_dict()
+        dic["oid"] = currentRecord.oid
         recordsDictList.append(dic)
         
     # sorted list using lambda, will sort in alphabetical order
@@ -38,11 +48,18 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
     annotation_dict = {}
     phraseIndex = -1
     currentPhrase = ''
-    shapeIdx = 0
+
+    recIdx = -1
+
     for i in sortedRecordDicList:
 
         if i[phrase] == '' or i[word] == '' or i[loc] == None:
-            print( "ERROR: Found empty record field in", fileName, ":", i, ", skip the entry" )
+            if i[phrase] == '':
+                print( "ERROR: Found empty", phrase, "field in", fileName, ":", i, ", skip the entry" )
+            if i[word] == '':
+                print( "ERROR: Found empty", word, "field in", fileName, ":", i, ", skip the entry" )
+            if i[loc] == None:
+                print( "ERROR: Found empty", loc, "field in", fileName, ":", i, ", skip the entry" )
             continue
        
         # if there is a new phrase then make a new dictionary for it
@@ -54,14 +71,14 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
         # word index is the text location
         wordLoc = i[loc]
 
-        # get shape type from the target shape
-        shape = shapes[shapeIdx]
-        shapeIdx = shapeIdx +1
-
         # print( "shapeType:", shape.shapeType, "shapeTypeName:", shape.shapeTypeName )
+        currentShape = shapes[i["oid"]]
+        coord = currentShape.points
+
+        # shape =
 
         # make the dictionary
-        annotation_dict[phraseIndex][wordLoc] = {'text_label': i[word], 'shape': shape.shapeType }
+        annotation_dict[phraseIndex][wordLoc] = {'text_label': i[word], 'shape': coord }
        
     # make into json file
     with open( "output/" + fileName + ".json", "w" ) as f:

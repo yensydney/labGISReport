@@ -21,7 +21,7 @@ def fromDir( targetDir, printRealError = False ):
         except Exception as e:
             print("Find invalid operation in", d)
             if printRealError:
-                print("ErrorHAHAHAHH: ", e)
+                print("Error: ", e)
             continue
 
     return targetList
