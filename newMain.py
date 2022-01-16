@@ -30,14 +30,8 @@ def parseSFWithKey( sf, phrase, word, loc, fileName ):
     print(len(records))
     # turning each record into a dictionary and adding it to a list
     print
-    for i in range(len(records)):
-        currentRecord = sf.record(i)
 
-        if currentRecord == None:
-            print
-            print( "ERROR: Failed to retrieve record from record", i, "in", fileName )
-            continue
-
+    for currentRecord in records:
         # print(currentRecord)
         dic = currentRecord.as_dict()
         dic["oid"] = currentRecord.oid
