@@ -17,7 +17,7 @@ An example of this is the pass:
 export the pyshp-2.1.3 (or a different version) to PYTHONPATH.  
 ## Usage
 To run the code, the user can use a root folder or their desired map folder  
-python3 newMain.py [root folder of one/multiple map folder(s)]  
-i.e. python3 newMain.py historical-map-groundtruth-25/  
+python3 shpParser.py [root folder of one/multiple map folder(s)]  
+i.e. python3 shpParser.py historical-map-groundtruth-25/  
 ## Contact
 For bug reports and/or questions, email Sydney at yensydney@gmail.com.
