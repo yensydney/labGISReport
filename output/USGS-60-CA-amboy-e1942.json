@@ -1510,6 +1510,33 @@
     },
     "42": {
         "1": {
+            "text_label": "Control from US Geological Survey",
+            "shape": [
+                [
+                    377.573239436613,
+                    -5763.0901408450845
+                ],
+                [
+                    747.6267605633738,
+                    -5766.954929577479
+                ],
+                [
+                    747.6267605633738,
+                    -5787.245070422549
+                ],
+                [
+                    374.6746478873172,
+                    -5787.245070422549
+                ],
+                [
+                    377.573239436613,
+                    -5763.0901408450845
+                ]
+            ]
+        }
+    },
+    "43": {
+        "1": {
             "text_label": "Cooks",
             "shape": [
                 [
@@ -1560,7 +1587,7 @@
             ]
         }
     },
-    "43": {
+    "44": {
         "1": {
             "text_label": "Corps",
             "shape": [
@@ -1637,7 +1664,7 @@
             ]
         }
     },
-    "44": {
+    "45": {
         "1": {
             "text_label": "Cotton",
             "shape": [
@@ -1689,7 +1716,7 @@
             ]
         }
     },
-    "45": {
+    "46": {
         "1": {
             "text_label": "County",
             "shape": [
@@ -1716,7 +1743,7 @@
             ]
         }
     },
-    "46": {
+    "47": {
         "1": {
             "text_label": "Cove",
             "shape": [
@@ -1768,7 +1795,7 @@
             ]
         }
     },
-    "47": {
+    "48": {
         "1": {
             "text_label": "Dale",
             "shape": [
@@ -1820,7 +1847,7 @@
             ]
         }
     },
-    "48": {
+    "49": {
         "1": {
             "text_label": "Danby",
             "shape": [
@@ -1847,7 +1874,7 @@
             ]
         }
     },
-    "49": {
+    "50": {
         "1": {
             "text_label": "Danby",
             "shape": [
@@ -1899,7 +1926,7 @@
             ]
         }
     },
-    "50": {
+    "51": {
         "1": {
             "text_label": "Datum is mean sea level",
             "shape": [
@@ -1926,7 +1953,7 @@
             ]
         }
     },
-    "51": {
+    "52": {
         "1": {
             "text_label": "Dependable hard-surface heavy-duty road",
             "shape": [
@@ -1953,7 +1980,7 @@
             ]
         }
     },
-    "52": {
+    "53": {
         "1": {
             "text_label": "Desert",
             "shape": [
@@ -2005,7 +2032,7 @@
             ]
         }
     },
-    "53": {
+    "54": {
         "1": {
             "text_label": "Dry",
             "shape": [
@@ -2032,7 +2059,7 @@
             ]
         }
     },
-    "54": {
+    "55": {
         "1": {
             "text_label": "E Bullion",
             "shape": [
@@ -2059,7 +2086,7 @@
             ]
         }
     },
-    "55": {
+    "56": {
         "1": {
             "text_label": "Essex",
             "shape": [
@@ -2086,7 +2113,7 @@
             ]
         }
     },
-    "56": {
+    "57": {
         "1": {
             "text_label": "F",
             "shape": [
@@ -2113,7 +2140,7 @@
             ]
         }
     },
-    "57": {
+    "58": {
         "1": {
             "text_label": "Fenner",
             "shape": [
@@ -2140,7 +2167,7 @@
             ]
         }
     },
-    "58": {
+    "59": {
         "1": {
             "text_label": "Fenner",
             "shape": [
@@ -2192,7 +2219,7 @@
             ]
         }
     },
-    "59": {
+    "60": {
         "1": {
             "text_label": "Fishel",
             "shape": [
@@ -2219,7 +2246,7 @@
             ]
         }
     },
-    "60": {
+    "61": {
         "1": {
             "text_label": "Flynn",
             "shape": [
@@ -2246,7 +2273,7 @@
             ]
         }
     },
-    "61": {
+    "62": {
         "1": {
             "text_label": "Glasglow",
             "shape": [
@@ -2273,7 +2300,7 @@
             ]
         }
     },
-    "62": {
+    "63": {
         "1": {
             "text_label": "Goffs",
             "shape": [
@@ -2300,7 +2327,7 @@
             ]
         }
     },
-    "63": {
+    "64": {
         "1": {
             "text_label": "Granite",
             "shape": [
@@ -2352,7 +2379,7 @@
             ]
         }
     },
-    "64": {
+    "65": {
         "1": {
             "text_label": "Grid",
             "shape": [
@@ -2404,7 +2431,7 @@
             ]
         }
     },
-    "65": {
+    "66": {
         "1": {
             "text_label": "Honeymoon",
             "shape": [
@@ -2456,7 +2483,7 @@
             ]
         }
     },
-    "66": {
+    "67": {
         "1": {
             "text_label": "In the US Zone F. U. S. C. & G. S. Special publication No 59",
             "shape": [
@@ -2483,7 +2510,7 @@
             ]
         }
     },
-    "67": {
+    "68": {
         "1": {
             "text_label": "Iron",
             "shape": [
@@ -2543,7 +2570,7 @@
             ]
         }
     },
-    "68": {
+    "69": {
         "1": {
             "text_label": "Klondike",
             "shape": [
@@ -2570,7 +2597,7 @@
             ]
         }
     },
-    "69": {
+    "70": {
         "1": {
             "text_label": "Loose-surface graded dry weather road",
             "shape": [
@@ -2597,7 +2624,7 @@
             ]
         }
     },
-    "70": {
+    "71": {
         "1": {
             "text_label": "Ludlow",
             "shape": [
@@ -2624,7 +2651,7 @@
             ]
         }
     },
-    "71": {
+    "72": {
         "1": {
             "text_label": "Mable",
             "shape": [
@@ -2651,7 +2678,7 @@
             ]
         }
     },
-    "72": {
+    "73": {
         "1": {
             "text_label": "Martin",
             "shape": [
@@ -2678,7 +2705,7 @@
             ]
         }
     },
-    "73": {
+    "74": {
         "1": {
             "text_label": "McCoy",
             "shape": [
@@ -2705,7 +2732,7 @@
             ]
         }
     },
-    "74": {
+    "75": {
         "1": {
             "text_label": "Milligan",
             "shape": [
@@ -2732,7 +2759,7 @@
             ]
         }
     },
-    "75": {
+    "76": {
         "1": {
             "text_label": "More than two lanes indicated by note along road with tick at point of charge",
             "shape": [
@@ -2759,7 +2786,7 @@
             ]
         }
     },
-    "76": {
+    "77": {
         "1": {
             "text_label": "Mountains",
             "shape": [
@@ -2794,7 +2821,7 @@
             ]
         }
     },
-    "77": {
+    "78": {
         "1": {
             "text_label": "N3400-W11500/60",
             "shape": [
@@ -2821,7 +2848,7 @@
             ]
         }
     },
-    "78": {
+    "79": {
         "1": {
             "text_label": "Needles",
             "shape": [
@@ -2848,7 +2875,7 @@
             ]
         }
     },
-    "79": {
+    "80": {
         "1": {
             "text_label": "Note: officers using this map will mark hereon corrections and additions which come",
             "shape": [
@@ -2875,7 +2902,7 @@
             ]
         }
     },
-    "80": {
+    "81": {
         "1": {
             "text_label": "Old",
             "shape": [
@@ -2902,7 +2929,7 @@
             ]
         }
     },
-    "81": {
+    "82": {
         "1": {
             "text_label": "Old",
             "shape": [
@@ -2954,7 +2981,7 @@
             ]
         }
     },
-    "82": {
+    "83": {
         "1": {
             "text_label": "Old",
             "shape": [
@@ -3031,7 +3058,7 @@
             ]
         }
     },
-    "83": {
+    "84": {
         "1": {
             "text_label": "Old Woman",
             "shape": [
@@ -3058,7 +3085,7 @@
             ]
         }
     },
-    "84": {
+    "85": {
         "1": {
             "text_label": "Pacific",
             "shape": [
@@ -3085,7 +3112,7 @@
             ]
         }
     },
-    "85": {
+    "86": {
         "1": {
             "text_label": "Mountains",
             "shape": [
@@ -3112,7 +3139,7 @@
             ]
         }
     },
-    "86": {
+    "87": {
         "1": {
             "text_label": "Piute",
             "shape": [
@@ -3139,7 +3166,7 @@
             ]
         }
     },
-    "87": {
+    "88": {
         "1": {
             "text_label": "Piute",
             "shape": [
@@ -3191,7 +3218,34 @@
             ]
         }
     },
-    "88": {
+    "89": {
+        "1": {
+            "text_label": "Polyconic Projection north america datum 1927",
+            "shape": [
+                [
+                    373.7084507042186,
+                    -5814.29859154931
+                ],
+                [
+                    877.0971830985851,
+                    -5811.400000000014
+                ],
+                [
+                    878.0633802816837,
+                    -5833.6225352112815
+                ],
+                [
+                    373.7084507042186,
+                    -5836.521126760577
+                ],
+                [
+                    373.7084507042186,
+                    -5814.29859154931
+                ]
+            ]
+        }
+    },
+    "90": {
         "1": {
             "text_label": "Prepared under the direction of the Chief of Engineers US Army",
             "shape": [
@@ -3218,7 +3272,7 @@
             ]
         }
     },
-    "89": {
+    "91": {
         "1": {
             "text_label": "Providence",
             "shape": [
@@ -3245,7 +3299,7 @@
             ]
         }
     },
-    "90": {
+    "92": {
         "2": {
             "text_label": "Mountains",
             "shape": [
@@ -3272,7 +3326,7 @@
             ]
         }
     },
-    "91": {
+    "93": {
         "1": {
             "text_label": "Quadranle",
             "shape": [
@@ -3299,7 +3353,7 @@
             ]
         }
     },
-    "92": {
+    "94": {
         "1": {
             "text_label": "Redondo",
             "shape": [
@@ -3326,7 +3380,34 @@
             ]
         }
     },
-    "93": {
+    "95": {
+        "1": {
+            "text_label": "Revised from State highway maps for california",
+            "shape": [
+                [
+                    373.7084507042186,
+                    -5791.1098591549435
+                ],
+                [
+                    853.9084507042189,
+                    -5790.143661971845
+                ],
+                [
+                    855.8408450704161,
+                    -5809.467605633817
+                ],
+                [
+                    374.6746478873172,
+                    -5811.400000000014
+                ],
+                [
+                    373.7084507042186,
+                    -5791.1098591549435
+                ]
+            ]
+        }
+    },
+    "96": {
         "1": {
             "text_label": "Rice",
             "shape": [
@@ -3353,7 +3434,7 @@
             ]
         }
     },
-    "94": {
+    "97": {
         "1": {
             "text_label": "Riverside",
             "shape": [
@@ -3380,7 +3461,7 @@
             ]
         }
     },
-    "95": {
+    "98": {
         "1": {
             "text_label": "Road Classification",
             "shape": [
@@ -3407,7 +3488,7 @@
             ]
         }
     },
-    "96": {
+    "99": {
         "1": {
             "text_label": "Salton",
             "shape": [
@@ -3459,7 +3540,7 @@
             ]
         }
     },
-    "97": {
+    "100": {
         "1": {
             "text_label": "San",
             "shape": [
@@ -3511,7 +3592,7 @@
             ]
         }
     },
-    "98": {
+    "101": {
         "1": {
             "text_label": "Sandy",
             "shape": [
@@ -3538,7 +3619,7 @@
             ]
         }
     },
-    "99": {
+    "102": {
         "1": {
             "text_label": "Santa",
             "shape": [
@@ -3590,7 +3671,7 @@
             ]
         }
     },
-    "100": {
+    "103": {
         "1": {
             "text_label": "Santa",
             "shape": [
@@ -3642,7 +3723,7 @@
             ]
         }
     },
-    "101": {
+    "104": {
         "1": {
             "text_label": "Scale",
             "shape": [
@@ -3669,7 +3750,7 @@
             ]
         }
     },
-    "102": {
+    "105": {
         "1": {
             "text_label": "Secondary hard-surface all-weather road",
             "shape": [
@@ -3696,7 +3777,7 @@
             ]
         }
     },
-    "103": {
+    "106": {
         "1": {
             "text_label": "Sheep",
             "shape": [
@@ -3773,7 +3854,7 @@
             ]
         }
     },
-    "104": {
+    "107": {
         "1": {
             "text_label": "Ship",
             "shape": [
@@ -3800,7 +3881,7 @@
             ]
         }
     },
-    "105": {
+    "108": {
         "1": {
             "text_label": "Ship",
             "shape": [
@@ -3852,7 +3933,7 @@
             ]
         }
     },
-    "106": {
+    "109": {
         "1": {
             "text_label": "Siam",
             "shape": [
@@ -3879,7 +3960,7 @@
             ]
         }
     },
-    "107": {
+    "110": {
         "1": {
             "text_label": "Siberia",
             "shape": [
@@ -3906,7 +3987,7 @@
             ]
         }
     },
-    "108": {
+    "111": {
         "1": {
             "text_label": "Spring",
             "shape": [
@@ -3933,7 +4014,7 @@
             ]
         }
     },
-    "109": {
+    "112": {
         "1": {
             "text_label": "State route",
             "shape": [
@@ -3960,7 +4041,7 @@
             ]
         }
     },
-    "110": {
+    "113": {
         "1": {
             "text_label": "Sunflower",
             "shape": [
@@ -4012,7 +4093,7 @@
             ]
         }
     },
-    "111": {
+    "114": {
         "1": {
             "text_label": "Sunflower",
             "shape": [
@@ -4064,7 +4145,7 @@
             ]
         }
     },
-    "112": {
+    "115": {
         "1": {
             "text_label": "The Last three digits of the grid numbers are omitted",
             "shape": [
@@ -4091,7 +4172,7 @@
             ]
         }
     },
-    "113": {
+    "116": {
         "1": {
             "text_label": "To their attention and mail direct to the chief of engineering washington dc",
             "shape": [
@@ -4118,7 +4199,7 @@
             ]
         }
     },
-    "114": {
+    "117": {
         "1": {
             "text_label": "Topeka",
             "shape": [
@@ -4145,7 +4226,7 @@
             ]
         }
     },
-    "115": {
+    "118": {
         "1": {
             "text_label": "Trojan",
             "shape": [
@@ -4172,7 +4253,7 @@
             ]
         }
     },
-    "116": {
+    "119": {
         "1": {
             "text_label": "Twenty Thousand yard grid computed from grid system for progressive maps",
             "shape": [
@@ -4199,7 +4280,7 @@
             ]
         }
     },
-    "117": {
+    "120": {
         "1": {
             "text_label": "US",
             "shape": [
@@ -4251,7 +4332,7 @@
             ]
         }
     },
-    "118": {
+    "121": {
         "1": {
             "text_label": "US Route",
             "shape": [
@@ -4278,7 +4359,7 @@
             ]
         }
     },
-    "119": {
+    "122": {
         "1": {
             "text_label": "Unimproved road",
             "shape": [
@@ -4305,7 +4386,7 @@
             ]
         }
     },
-    "120": {
+    "123": {
         "1": {
             "text_label": "Union",
             "shape": [
@@ -4332,7 +4413,7 @@
             ]
         }
     },
-    "121": {
+    "124": {
         "1": {
             "text_label": "Van",
             "shape": [
@@ -4409,7 +4490,7 @@
             ]
         }
     },
-    "122": {
+    "125": {
         "1": {
             "text_label": "War",
             "shape": [
@@ -4461,7 +4542,7 @@
             ]
         }
     },
-    "123": {
+    "126": {
         "1": {
             "text_label": "Weavers",
             "shape": [
@@ -4513,7 +4594,7 @@
             ]
         }
     },
-    "124": {
+    "127": {
         "1": {
             "text_label": "Well",
             "shape": [
@@ -4540,7 +4621,7 @@
             ]
         }
     },
-    "125": {
+    "128": {
         "1": {
             "text_label": "Wilhelm",
             "shape": [
@@ -4592,7 +4673,7 @@
             ]
         }
     },
-    "126": {
+    "129": {
         "1": {
             "text_label": "Willow",
             "shape": [
@@ -4644,7 +4725,7 @@
             ]
         }
     },
-    "127": {
+    "130": {
         "1": {
             "text_label": "Woman",
             "shape": [
